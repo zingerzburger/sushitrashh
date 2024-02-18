@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css.css">
+        <title>ITC122 albacea</title>
+    </head>
+
+    <body>
+    
+        <div class="texts">
+            <h1>ACTIVITIES</h1>
+            <p class="subj">ITC122 - Web Design</p>
+            <div>
+            
+                <h4>Week 2</h4>
+                    <ul class="wk2">
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2010.html">ACTIVITY 10</a></li> 
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2011.html">ACTIVITY 11</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2012.html">ACTIVITY 12</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2013.html">ACTIVITY 13</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2014.html">ACTIVITY 14</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2015.html">ACTIVITY 15</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2016.html">ACTIVITY 16</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2017.html">ACTIVITY 17</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2018.html">ACTIVITY 18</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2019.html">ACTIVITY 19</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2020.html">ACTIVITY 20</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2021.html">ACTIVITY 21</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2022.html">ACTIVITY 22</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2023.html">ACTIVITY 23</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2024.html">ACTIVITY 24</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2024.html">ACTIVITY 25</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2025.html">ACTIVITY 26</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2027.html">ACTIVITY 27</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2028.html">ACTIVITY 28</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2029.html">ACTIVITY 29</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2030.html">ACTIVITY 30</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2031.html">ACTIVITY 31</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2032.html">ACTIVITY 32</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2033.html">ACTIVITY 33</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2034.html">ACTIVITY 34</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2035.html">ACTIVITY 35</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2036.html">ACTIVITY 36</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2037.html">ACTIVITY 37</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2038.html">ACTIVITY 38</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2039.html">ACTIVITY 39</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2040.html">ACTIVITY 40</a></li>
+                        <li><a href="file:///C:/Users/Vianca%20Albacea/Downloads/act%2041.html?imagebutton.x=91&imagebutton.y=164">ACTIVITY 41</a></li>
+                    </ul>
+            </div>
+        </div>
+    </body>
+</html>
